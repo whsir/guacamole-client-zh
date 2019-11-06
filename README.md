@@ -1,0 +1,1 @@
+guacamole-client中文汉化
